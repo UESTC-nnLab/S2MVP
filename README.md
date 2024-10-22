@@ -22,7 +22,11 @@ Moving infrared small target detection is critical for various applications, e.g
 ### Notes
 1. The code is based on [mmdetection](https://github.com/open-mmlab/mmdetection). Please follow the instructions in the original repository to install the dependencies.
 2. The original code could only process single-frame image. You need to modify the following main files to process multi-frame.
-1) mmdet/models/necks/fpn.py 2) mmdet/models/backbones/resnet.py 3) mmdet/models/detectors/fcos.py 4) mmdet/models/detectors/single_stage.py 5) Data augmentation related files, e.g., Resize, Flip,… 
+a. mmdet/models/necks/fpn.py
+b. mmdet/models/backbones/resnet.py
+c. mmdet/models/detectors/fcos.py
+d. mmdet/models/detectors/single_stage.py
+e. Data augmentation-related files, e.g., Resize, Flip,… 
 
 ## Results
 ![pr](pr.png)
