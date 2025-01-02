@@ -3,7 +3,6 @@ The official repository for the paper "Semi-supervised Multi-view Prototype  Lea
 
 Our paper is accepted to "IEEE Trans. on Geoscience and Remote Sensing (TGRS)".
 
-Currently, it is still in the process of refinement. After the formal publication of the paper, the code will be further improved.
 
 ![frame](frame.png)
 
