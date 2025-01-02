@@ -1,7 +1,7 @@
 # S2MVP
 The official repository for the paper "Semi-supervised Multi-view Prototype  Learning with Motion Reconstruction for Moving Infrared Small Target Detection"
 
-Our paper is accepted to "IEEE Trans. on Geoscience and Remote Sensing (TGRS)".
+Our paper is accepted to "IEEE Trans. on Geoscience and Remote Sensing (TGRS 2024)".
 
 
 ![frame](frame.png)
