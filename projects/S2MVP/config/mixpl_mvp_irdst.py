@@ -3,7 +3,7 @@ _base_ = [
 ]
 
 custom_imports = dict(
-    imports=['projects.MixPL.mixpl'], allow_failed_imports=False)
+    imports=['projects.S2MVP.mixpl'], allow_failed_imports=False)
 
 detector = dict(
     type='FCOS',

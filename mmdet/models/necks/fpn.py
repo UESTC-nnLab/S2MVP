@@ -564,4 +564,4 @@ class FPNSeq(BaseModule):
         r.append(P5)
         r.append(P4)
         r.append(P3)
-        return results
+        return r
