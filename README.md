@@ -57,5 +57,21 @@ IF any questions, please contact with Weiwei Duan via email: [dwwuestc@163.com](
 ## References
 - Chen, K., Wang, J., Pang, J., Cao, Y., Xiong, Y., Li, X., ... & Lin, D. (2019). MMDetection: Open mmlab detection toolbox and benchmark. arXiv preprint arXiv:1906.07155.
 - Chen, Z., Zhang, W., Wang, X., Chen, K., & Wang, Z. (2023). Mixed pseudo labels for semi-supervised object detection. arXiv preprint arXiv:2312.07006.
+- 
+
+## Citation
+If you find this repo useful, please cite our paper.
+```
+@ARTICLE{10824834,
+  author={Duan, Weiwei and Ji, Luping and Huang, Jianghong and Chen, Shengjia and Peng, Shuang and Zhu, Sicheng and Ye, Mao},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Semi-Supervised Multiview Prototype Learning With Motion Reconstruction for Moving Infrared Small Target Detection}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-15},
+  keywords={Prototypes;Object detection;Feature extraction;Training;Representation learning;Image reconstruction;Visualization;Semisupervised learning;Computational modeling;Detectors;Infrared small target detection (ISTD);motion reconstruction (MR);multiview prototypes;semi-supervised learning},
+  doi={10.1109/TGRS.2025.3525648}}
+```
 
 
